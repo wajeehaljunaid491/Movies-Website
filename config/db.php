@@ -16,3 +16,4 @@ if (isset($_COOKIE['db_name'])) {
 } else {
     die("You must initialize the database by <a href='installer.php'>installer</a>!");
 }
+?>
